@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Feature\\GreetingTest::it_returns_vietnamese_greeting_when_locale_is_vi":7,"Tests\\Feature\\GreetingTest::it_returns_english_greeting_when_locale_is_en":7},"times":{"Tests\\Feature\\GreetingTest::it_returns_vietnamese_greeting_when_locale_is_vi":0.085,"Tests\\Feature\\GreetingTest::it_returns_english_greeting_when_locale_is_en":0.002}}
